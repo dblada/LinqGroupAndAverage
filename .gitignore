@@ -2,5 +2,7 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs
+.vs/
+*.vsidx
+/ConsoleApp1/bin/Debug
 /ConsoleApp1/obj/Debug
